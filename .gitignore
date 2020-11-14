@@ -1,0 +1,12 @@
+# pycharm
+/*.idea
+__pycache__/
+
+# works
+.ipynb_checkpoints/
+data/
+venv/
+*.crfsuite
+
+# env
+.env.json
